@@ -1,0 +1,39 @@
+.finalizar-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+   
+}
+
+.Link{
+    background: #000;
+    color: #fff;
+    border-radius: 12px;
+    padding: 0.5rem 1rem;
+    font-size: 23px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+.Link:hover{
+    background: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+.adc-p{
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+
+@media (max-width: 768px) {
+    .finalizar-div button{
+        font-size: 20px;
+    }
+  }
+  
