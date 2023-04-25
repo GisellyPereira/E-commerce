@@ -12,6 +12,9 @@ No geral, é uma aplicação simples de e-commerce para comprar coxinhas e outra
 Este projeto pode ser considerado um projeto inicial e certamente pode ser ampliado para incluir mais funcionalidades, como a adição de outros produtos e categorias, opções de pagamento, integração com sistemas de entrega, entre outras.
 
 
+##
+
+![Coxinhas-Select](https://user-images.githubusercontent.com/116305443/234364893-6d94d975-60b5-4281-b292-44fde9d8ab66.gif)
 
 
 
