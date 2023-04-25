@@ -14,8 +14,6 @@ Este projeto pode ser considerado um projeto inicial e certamente pode ser ampli
 
 ##
 
-![Coxinhas-Select](https://user-images.githubusercontent.com/116305443/234364893-6d94d975-60b5-4281-b292-44fde9d8ab66.gif)
-
 
 
 
