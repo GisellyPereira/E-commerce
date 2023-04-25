@@ -64,6 +64,21 @@
     margin-top: 20px;
     width: 110px;
 }
+.div-ped-fim{
+    margin-top: 50px;
+}
+.finalizarPed{
+    background: #000;
+    color: #fff;
+    border-radius: 12px;
+    padding: 0.5rem 1rem;
+    font-size: 23px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 20px;
+    width: 250px;
+}
 @media (max-width: 1190px){
     .carrinho{
         grid-template-columns: 1fr 1fr;
@@ -97,5 +112,9 @@
     .voltar{
         font-size: 17px;
         width: 90px;
+    }
+    .finalizarPed{
+        font-size: 17px;
+        width: 180px;
     }
 }

@@ -52,6 +52,15 @@ const Carrinho = () => {
         </div>
         <p className="preço-total">Preço total: {precoTotal}</p>
         <Link className="voltar" to="/">Voltar</Link>
+        <div className="div-ped-fim">
+      {precoTotal > 0 ? (
+        <Link className="finalizarPed" to="/finalizar">
+        Finalizar Pedido
+        </Link>
+      ) : (
+        <p></p>
+      )}
+    </div>
       </div>
       <Footer />
     </div>

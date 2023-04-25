@@ -32,7 +32,7 @@ const FinalizarPedido = () => {
     <div className="finalizar-div">
       {totalCarrinho > 0 ? (
         <Link className="Link" to="/carrinho">
-          Finalizar Pedido
+          ver carrinho
         </Link>
       ) : (
         <p className="adc-p">Adicione algo ao carrinho.</p>
