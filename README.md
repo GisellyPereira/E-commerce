@@ -15,5 +15,6 @@ Este projeto pode ser considerado um projeto inicial e certamente pode ser ampli
 ##
 
 
+![e-commerce (1)](https://user-images.githubusercontent.com/116305443/234617387-bcbd9d27-83f9-4109-b2ae-55e1f8ced3e2.gif)
 
 
