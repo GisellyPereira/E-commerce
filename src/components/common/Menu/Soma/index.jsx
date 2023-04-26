@@ -27,7 +27,7 @@ const Soma = () => {
 
   return (
     <div className="div-calcular">
-      <p>Total: {total}</p>
+      <p>Total: {total.toFixed(2)}</p>
     </div>
   );
 };

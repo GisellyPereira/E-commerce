@@ -43,14 +43,14 @@ const Carrinho = () => {
                   <p className="nome-item">{item.nome}</p>
                   <div className="qnt-price">
                     <p>Quantidade: {item.quantidade}</p>
-                    <p>Preço: {item.preco} und</p>
+                    <p>Valor: R${(item.preco * item.quantidade).toFixed(2)}</p>
                   </div>
                  
                 </div>
               ))}
           </div>
         </div>
-        <p className="preço-total">Preço total: {precoTotal}</p>
+        <p className="preço-total">Preço total: R${precoTotal.toFixed(2)}</p>
         <Link className="voltar" to="/">Voltar</Link>
         <div className="div-ped-fim">
       {precoTotal > 0 ? (

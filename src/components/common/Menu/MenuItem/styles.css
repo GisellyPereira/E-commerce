@@ -67,18 +67,42 @@
     color: #a0a0a0;
   }
 
- 
+.foot_desc-total{
+    font-weight: bold;
+    font-size: 25px;
+} 
 
 @media (max-width: 800px){
     .item {
-        width: 300px; 
+        width: 250px;
+        height: 350px; 
     }
     .item-foot_desc{
         flex-direction: column;
     }
     .foot_desc-price {
-        font-size: 19px;
+        font-size: 15px;
     }
+    .item-head_desc{
+        margin-top: 0;
+    }
+    .head_desc-name{
+        font-size: 0.8rem;
+    }
+    .head_desc-info{
+        font-size: 0.7rem;
+    }
+    .cox-img{
+        width: 70px;
+        height: 70px;
+    }
+    .foot_desc-total{
+        font-size: 16px;
+    }
+    .item-foot_desc button{
+        font-size: 15px;
+    }
+
 
 
 }

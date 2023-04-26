@@ -34,12 +34,12 @@ const Menu = () => {
       <div className="main-div">
         {menuItemsData.map((item, index) => (
           <MenuItem
-            key={item.id}
-            item={item}
-            aumentarQuantidade={() => aumentarQuantidade(index)}
-            diminuirQuantidade={() => diminuirQuantidade(index)}
-            quantidade={quantidades[index]}
-          />
+          item={item}
+          quantidade={parseInt(localStorage.getItem(`quantidade_${item.id}`)) || 0}
+          aumentarQuantidade={() => aumentarQuantidade(item.id)}
+          diminuirQuantidade={() => diminuirQuantidade(item.id)}
+        />
+
         ))}
       </div>
       <div className="div-total">
