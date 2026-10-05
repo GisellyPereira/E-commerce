@@ -1,0 +1,7 @@
+Generated with built-in imagegen. Illustrative product photography.
+
+Hero — public/images/coxinhas-hero.webp
+Use case: product-mockup. Asset type: transparent hero product photography for a Brazilian coxinha shop website. Subject: a generous small pile of golden Brazilian chicken coxinhas, recognizable pointed teardrop shapes with crispy fine breadcrumbs, on a shallow warm white ceramic plate. One coxinha in the front cut open showing shredded chicken and creamy filling. Composition: close frontal three-quarter view, entire plate and coxinhas inside frame, appetizing real commercial food photography, soft warm studio lighting, realistic crumb texture. Transparent background, isolated cutout, subtle natural contact shadow, no table or backdrop, no typography, no people, no garnish, no logo, no watermark. Square composition.
+
+Single product — public/images/coxinha-single.webp
+Use case: product-mockup. Asset type: transparent product image for Brazilian coxinha menu cards. Generate a single whole Brazilian coxinha, golden teardrop shape with pointed top, crisp fine breadcrumbs, appetizing realistic food photography, no cut or filling showing. Standing upright in three quarter view, fully inside frame, tight square composition, soft warm studio lighting. Isolated on transparent background with a subtle contact shadow. No plate, no garnish, no props, no typography, no watermark.
